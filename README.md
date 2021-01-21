@@ -1,0 +1,2 @@
+# mfg.wizard
+Installation wizard
